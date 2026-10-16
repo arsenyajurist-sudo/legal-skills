@@ -1,0 +1,8 @@
+{
+  "name": "devils-advocate",
+  "version": "0.1.0",
+  "description": "Devil's Advocate: a ruthless opposing-counsel mode that attacks your legal position, idea, or document, strongest arguments first, with concrete counter-moves. Legal mode and general mode. For licensed lawyers; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "litigation", "devils-advocate", "stress-test", "red-team"]
+}

@@ -22,6 +22,10 @@ If unclear, ask one question: "Are we strengthening your draft, or attacking som
 3. **Signature and responsibility stay with the lawyer.** The last step always says: "cite-check and read-through are on you."
 4. **Client confidentiality.** Step 0 is mandatory whenever the text contains personal or confidential data.
 
+## Authority verification protocol (applies to every layer and both modes)
+
+For every authority, yours or one you propose, confirm or mark `[VERIFY]` on each of: (1) the citation resolves to a real decision; (2) it is still good law (check a citator for subsequent history, not memory); (3) it is binding or only persuasive in this forum; (4) the cited line is the holding, not dicta; (5) the facts really fit, and how the opponent will distinguish them; (6) the strongest authority against you at the same or higher level. Where the system is precedent-based, a weak authority table is a weak document.
+
 ## Step 0. Anonymization (before any work)
 
 Scan the received text for: names of parties and of the client, case numbers, sensitive dates, company names, addresses, phone numbers, identifiers and registration numbers, names of courts and judges, sensitive amounts.
@@ -99,7 +103,7 @@ A conventional "strong–weak–strong" structure is about presentation, not dia
 
 | Tier | Content | How the court will try to deflect | Attack axis |
 |---|---|---|---|
-| **Hard tier** | Defects the appellate court *must* examine as questions of law: procedural violations, evidence not examined at the hearing, departure from the claim or charge as pleaded, wrong legal qualification | Cannot be waved away with "reassessment of the evidence" | Maximum hard-to-deflect |
+| **Hard tier** | Defects the appellate court *must* examine as questions of law: procedural violations, errors that were preserved below, evidence not examined at the hearing, departure from the claim or charge as pleaded, wrong legal qualification, jurisdictional defects | Cannot be waved away with "reassessment of the evidence" | Maximum hard-to-deflect |
 | **Evidence tier** | Evidentiary facts: witnesses, calculation of loss, each party's role | One paragraph: "the court weighed the evidence as a whole" | Low efficiency, but required to preserve the point for further review |
 | **Concession tier** | Cheap concessions: drop one count or element, reduce the amount, cancel the civil claim or an asset measure, adjust the penalty | Lets the court hand the defense a win *without* reversing the whole decision | Maximum achievable |
 
@@ -121,7 +125,7 @@ Always include: base rates and statistics for reversal in this kind of case; con
 
 ### B6. Verification checklist against the full text
 
-Produce a checklist of questions whose answers change the weight of the arguments, grouped by: operative part, reasoning part, hearing record (transcript, minutes, objections to the record and how they were resolved). The lawyer finds the answers in the documents before the hearing.
+First establish **preservation** (was each point raised below, in time and in the right form, or is it waived?) and the **standard of review** for each issue (de novo, abuse of discretion, clear error): they often decide the result before the merits. Then produce a checklist of questions whose answers change the weight of the arguments, grouped by: operative part, reasoning part, hearing record (transcript, minutes, objections to the record and how they were resolved). The lawyer finds the answers in the documents before the hearing.
 
 ### B7. Oral argument assembly (time-boxed)
 

@@ -1,11 +1,18 @@
 {
   "name": "legal-skills",
-  "owner": { "name": "Arsenia Razumovskaya" },
+  "owner": {
+    "name": "Arsenia Razumovskaya"
+  },
   "plugins": [
     {
       "name": "red-team-brief",
       "source": "./plugins/red-team-brief",
       "description": "Strengthen a legal draft in five layers or audit an adverse judgment for appeal. For licensed lawyers; not legal advice."
+    },
+    {
+      "name": "devils-advocate",
+      "source": "./plugins/devils-advocate",
+      "description": "Ruthless opposing-counsel mode: attacks your legal position, idea, or document, strongest arguments first. Legal and general modes. For licensed lawyers; not legal advice."
     }
   ]
 }
