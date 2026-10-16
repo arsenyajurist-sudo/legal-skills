@@ -1,0 +1,8 @@
+{
+  "name": "criminal-defense-strategy",
+  "version": "0.1.0",
+  "description": "Criminal Defense Strategy Advisor: a second head at the table for defense counsel. Case map, 2-3 lines of defense with their price, attack on the evidence, stage tactics from first contact to appeal, appeal map. Jurisdiction-neutral with a common-law lens. For licensed defense lawyers; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "criminal-defense", "strategy", "common-law", "appeal", "evidence"]
+}

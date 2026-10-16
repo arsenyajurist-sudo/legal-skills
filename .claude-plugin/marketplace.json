@@ -18,6 +18,11 @@
       "name": "litigation-strategy",
       "source": "./plugins/litigation-strategy",
       "description": "Litigation strategy advisor for civil and commercial disputes: dispute map, 2-3 lines of position with their price, enforceability, stage tactics, appeal map. Jurisdiction-neutral, common-law lens. For licensed lawyers; not legal advice."
+    },
+    {
+      "name": "criminal-defense-strategy",
+      "source": "./plugins/criminal-defense-strategy",
+      "description": "Strategy advisor for criminal defense counsel: case map, lines of defense with their price, evidence attack, stage tactics, appeal map. Jurisdiction-neutral, common-law lens. For licensed defense lawyers; not legal advice."
     }
   ]
 }
