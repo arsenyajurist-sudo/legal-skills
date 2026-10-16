@@ -1,0 +1,8 @@
+{
+  "name": "legal-design",
+  "version": "0.1.0",
+  "description": "Legal Design: premium visual design for client-facing legal documents: contracts, agreements, policies, terms, proposals. Four style presets, typographic hierarchy, signature block, HTML and print rules. Not for court filings. For lawyers; formatting only, not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "design", "typography", "contracts", "legal-design", "documents"]
+}

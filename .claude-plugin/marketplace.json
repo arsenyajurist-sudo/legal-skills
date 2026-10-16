@@ -38,6 +38,11 @@
       "name": "legal-prompt-engineer",
       "source": "./plugins/legal-prompt-engineer",
       "description": "Turns a lawyer's short request into a strong structured prompt for an AI model, with guardrails against invented authority, plus a library of six ready prompts. Jurisdiction-neutral. For lawyers; not legal advice."
+    },
+    {
+      "name": "legal-design",
+      "source": "./plugins/legal-design",
+      "description": "Premium visual design for client-facing legal documents: four presets, typographic hierarchy, signature block, print rules. Not for court filings. Formatting only, not legal advice."
     }
   ]
 }
