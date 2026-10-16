@@ -16,6 +16,8 @@ AI skills and plugins for **licensed lawyers**: drafting, stress-testing, and st
 | [`legal-prompt-engineer`](plugins/legal-prompt-engineer) | Writes strong structured prompts for lawyers (8-block skeleton, guardrails against invented authority) and includes six ready prompts: contract review, demand letter, case-law research, case-file digest, anonymization, dispute strategy. |
 | [`legal-design`](plugins/legal-design) | Premium visual design for client-facing legal documents: four style presets, typographic hierarchy, signature block, HTML and print rules. Not for court filings. |
 | [`legal-trainer`](plugins/legal-trainer) | Builds training content for practicing lawyers: lectures, seminars, workshops, programs, case studies. Fixed nine-block structure, practical tricks, an exercise, monetization, and an AI block with working prompts. |
+| [`client-consult-ru`](plugins/client-consult-ru) | Russian-law version (in Russian): plain-language client explanations, memos and FAQs for Russian lawyers. Free. |
+| [`legal-prompt-engineer-ru`](plugins/legal-prompt-engineer-ru) | Russian-law version (in Russian): structured prompts for Russian lawyers working with AI. Free. |
 | [`red-team-brief`](plugins/red-team-brief) | Strengthen your own draft in five layers, or audit an adverse judgment for appeal (attack lines ranked by cost of concession for the court). |
 
 ## Install (Claude Code)
@@ -31,6 +33,8 @@ AI skills and plugins for **licensed lawyers**: drafting, stress-testing, and st
 /plugin install legal-prompt-engineer@legal-skills
 /plugin install legal-design@legal-skills
 /plugin install legal-trainer@legal-skills
+/plugin install client-consult-ru@legal-skills
+/plugin install legal-prompt-engineer-ru@legal-skills
 ```
 
 Then ask: *"Red-team this draft"* and paste an anonymized document.

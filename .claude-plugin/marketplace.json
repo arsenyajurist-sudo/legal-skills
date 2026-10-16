@@ -48,6 +48,16 @@
       "name": "legal-trainer",
       "source": "./plugins/legal-trainer",
       "description": "Training content for practicing lawyers: lectures, seminars, workshops, programs, case studies, with a fixed nine-block structure and an AI block with working prompts. Jurisdiction-neutral. For lawyers; not legal advice."
+    },
+    {
+      "name": "client-consult-ru",
+      "source": "./plugins/client-consult-ru",
+      "description": "Правовые разъяснения для клиентов простым языком по праву РФ: ответ клиенту, памятка, FAQ, разъяснение судебного решения. Для юристов и адвокатов. Не юридическая консультация."
+    },
+    {
+      "name": "legal-prompt-engineer-ru",
+      "source": "./plugins/legal-prompt-engineer-ru",
+      "description": "Пишет сильные развёрнутые промпты для юриста РФ под работу с ИИ: проверка договора, иск и претензия, судебная практика, разбор материалов дела, обезличивание, стратегия. Каркас из 8 блоков. Не юридическая консультация."
     }
   ]
 }

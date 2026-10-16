@@ -1,0 +1,16 @@
+{
+  "name": "client-consult-ru",
+  "version": "0.1.0",
+  "description": "Правовые разъяснения для клиентов простым языком по праву РФ: ответ клиенту, памятка, FAQ, разъяснение судебного решения. Для юристов и адвокатов. Не юридическая консультация. Russian-law version of Client Explainer.",
+  "author": {
+    "name": "Arsenia Razumovskaya"
+  },
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "россия",
+    "клиент",
+    "консультация",
+    "памятка"
+  ]
+}
