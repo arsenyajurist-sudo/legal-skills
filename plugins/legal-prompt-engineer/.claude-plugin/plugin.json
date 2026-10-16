@@ -1,0 +1,8 @@
+{
+  "name": "legal-prompt-engineer",
+  "version": "0.1.0",
+  "description": "Legal Prompt Engineer: turns a lawyer's short request into a strong, structured prompt for an AI model: role, context, materials, task, reasoning, constraints, output format, self-check. Built-in guardrails against invented authority. Includes a library of ready prompts. Jurisdiction-neutral. For lawyers; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "prompts", "prompt-engineering", "ai", "contract-review", "research"]
+}

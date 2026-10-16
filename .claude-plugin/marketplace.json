@@ -33,6 +33,11 @@
       "name": "client-explainer",
       "source": "./plugins/client-explainer",
       "description": "Turns legal analysis into plain-language client communications: reply, memo, FAQ, explanation of a decision. Honest about risk. Jurisdiction-neutral. For lawyers; not legal advice."
+    },
+    {
+      "name": "legal-prompt-engineer",
+      "source": "./plugins/legal-prompt-engineer",
+      "description": "Turns a lawyer's short request into a strong structured prompt for an AI model, with guardrails against invented authority, plus a library of six ready prompts. Jurisdiction-neutral. For lawyers; not legal advice."
     }
   ]
 }

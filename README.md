@@ -13,6 +13,7 @@ AI skills and plugins for **licensed lawyers**: drafting, stress-testing, and st
 | [`criminal-defense-strategy`](plugins/criminal-defense-strategy) | Advisor for defense counsel: case map, two or three lines of defense with their price, attack on evidence, stage tactics from first contact to appeal, appeal map. Jurisdiction-neutral with a common-law lens. |
 | [`criminal-defense-drafting`](plugins/criminal-defense-drafting) | Drafting assistant for defense counsel: bail applications, exclusion and dismissal motions, disclosure applications, grounds of appeal, submissions, cross-examination outlines, expert questions. Formal register, no invented authority. |
 | [`client-explainer`](plugins/client-explainer) | Turns legal analysis into plain-language client communications: short reply, step-by-step memo, FAQ, explanation of a court decision. Honest about risk, no promises of outcome. |
+| [`legal-prompt-engineer`](plugins/legal-prompt-engineer) | Writes strong structured prompts for lawyers (8-block skeleton, guardrails against invented authority) and includes six ready prompts: contract review, demand letter, case-law research, case-file digest, anonymization, dispute strategy. |
 | [`red-team-brief`](plugins/red-team-brief) | Strengthen your own draft in five layers, or audit an adverse judgment for appeal (attack lines ranked by cost of concession for the court). |
 
 ## Install (Claude Code)
@@ -25,6 +26,7 @@ AI skills and plugins for **licensed lawyers**: drafting, stress-testing, and st
 /plugin install criminal-defense-strategy@legal-skills
 /plugin install criminal-defense-drafting@legal-skills
 /plugin install client-explainer@legal-skills
+/plugin install legal-prompt-engineer@legal-skills
 ```
 
 Then ask: *"Red-team this draft"* and paste an anonymized document.
