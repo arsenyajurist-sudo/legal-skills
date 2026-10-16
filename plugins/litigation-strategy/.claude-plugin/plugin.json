@@ -1,0 +1,8 @@
+{
+  "name": "litigation-strategy",
+  "version": "0.1.0",
+  "description": "Litigation Strategy Advisor: a second head at the table for civil and commercial disputes. Fact intake, dispute map, two or three competing lines of position with their price, enforceability first, stage tactics, appeal map. Jurisdiction-neutral with a common-law lens. For licensed lawyers; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "litigation", "strategy", "civil", "commercial", "common-law", "appeal"]
+}
