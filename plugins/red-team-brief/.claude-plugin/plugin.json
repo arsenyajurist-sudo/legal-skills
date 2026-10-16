@@ -1,0 +1,17 @@
+{
+  "name": "red-team-brief",
+  "version": "0.1.0",
+  "description": "Red Team Brief: an AI workflow to stress-test legal work product like opposing counsel would. Strengthen your own draft in five layers, or audit an adverse judgment for appeal. For licensed lawyers; not legal advice.",
+  "author": {
+    "name": "Arsenia Razumovskaya"
+  },
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "lawyer",
+    "litigation",
+    "red-team",
+    "devils-advocate",
+    "appeal"
+  ]
+}

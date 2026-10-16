@@ -1,0 +1,11 @@
+{
+  "name": "legal-skills",
+  "owner": { "name": "Arsenia Razumovskaya" },
+  "plugins": [
+    {
+      "name": "red-team-brief",
+      "source": "./plugins/red-team-brief",
+      "description": "Strengthen a legal draft in five layers or audit an adverse judgment for appeal. For licensed lawyers; not legal advice."
+    }
+  ]
+}
