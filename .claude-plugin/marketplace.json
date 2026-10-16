@@ -43,6 +43,11 @@
       "name": "legal-design",
       "source": "./plugins/legal-design",
       "description": "Premium visual design for client-facing legal documents: four presets, typographic hierarchy, signature block, print rules. Not for court filings. Formatting only, not legal advice."
+    },
+    {
+      "name": "legal-trainer",
+      "source": "./plugins/legal-trainer",
+      "description": "Training content for practicing lawyers: lectures, seminars, workshops, programs, case studies, with a fixed nine-block structure and an AI block with working prompts. Jurisdiction-neutral. For lawyers; not legal advice."
     }
   ]
 }

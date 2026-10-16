@@ -1,0 +1,8 @@
+{
+  "name": "legal-trainer",
+  "version": "0.1.0",
+  "description": "Legal Trainer: builds training content for practicing lawyers: lectures, seminars, workshops, programs, case studies, skill breakdowns. Fixed nine-block structure with a case, practical tricks, common mistakes, an exercise, monetization, and an AI block with working prompts. Jurisdiction-neutral. For lawyers; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "training", "lecture", "seminar", "workshop", "cle", "education"]
+}
