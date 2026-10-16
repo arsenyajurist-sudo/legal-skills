@@ -13,7 +13,7 @@ AI skills and plugins for **licensed lawyers**: drafting, stress-testing, and st
 ## Install (Claude Code)
 
 ```
-/plugin marketplace add <github-user>/legal-skills
+/plugin marketplace add arsenyajurist-sudo/legal-skills
 /plugin install red-team-brief@legal-skills
 ```
 
