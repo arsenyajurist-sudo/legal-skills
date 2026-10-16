@@ -1,0 +1,8 @@
+{
+  "name": "client-explainer",
+  "version": "0.1.0",
+  "description": "Client Explainer: turns legal analysis into plain-language client communications: a short reply, a step-by-step memo, an FAQ, an explanation of a court decision. Honest about risk and uncertainty, no promises of outcome. Jurisdiction-neutral. For lawyers preparing client communications; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "client", "plain-language", "communication", "memo", "faq"]
+}

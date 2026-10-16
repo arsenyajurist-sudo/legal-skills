@@ -28,6 +28,11 @@
       "name": "criminal-defense-drafting",
       "source": "./plugins/criminal-defense-drafting",
       "description": "Drafting assistant for criminal defense counsel: bail, exclusion and dismissal motions, disclosure applications, appeal grounds, submissions, cross-examination outlines, expert questions. Formal register, no invented authority. Jurisdiction-neutral. For licensed defense lawyers; not legal advice."
+    },
+    {
+      "name": "client-explainer",
+      "source": "./plugins/client-explainer",
+      "description": "Turns legal analysis into plain-language client communications: reply, memo, FAQ, explanation of a decision. Honest about risk. Jurisdiction-neutral. For lawyers; not legal advice."
     }
   ]
 }
