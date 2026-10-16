@@ -23,6 +23,11 @@
       "name": "criminal-defense-strategy",
       "source": "./plugins/criminal-defense-strategy",
       "description": "Strategy advisor for criminal defense counsel: case map, lines of defense with their price, evidence attack, stage tactics, appeal map. Jurisdiction-neutral, common-law lens. For licensed defense lawyers; not legal advice."
+    },
+    {
+      "name": "criminal-defense-drafting",
+      "source": "./plugins/criminal-defense-drafting",
+      "description": "Drafting assistant for criminal defense counsel: bail, exclusion and dismissal motions, disclosure applications, appeal grounds, submissions, cross-examination outlines, expert questions. Formal register, no invented authority. Jurisdiction-neutral. For licensed defense lawyers; not legal advice."
     }
   ]
 }

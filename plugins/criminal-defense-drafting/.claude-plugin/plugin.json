@@ -1,0 +1,8 @@
+{
+  "name": "criminal-defense-drafting",
+  "version": "0.1.0",
+  "description": "Criminal Defense Drafting Assistant: drafts for defense counsel: bail applications, exclusion and dismissal motions, disclosure applications, appeal grounds, written submissions, cross-examination outlines, expert questions. Formal register, no invented authority. Jurisdiction-neutral. For licensed defense lawyers; not legal advice.",
+  "author": { "name": "Arsenia Razumovskaya" },
+  "license": "MIT",
+  "keywords": ["legal", "lawyer", "criminal-defense", "drafting", "motions", "appeal", "common-law"]
+}
